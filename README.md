@@ -1,4 +1,5 @@
 # Amoghk04.github.io
 Github repo for websites - git class
 
-Something
+Name: Amogh Kalasapura
+Interests: AIML
